@@ -110,3 +110,12 @@ rule-based summary so the app is demonstrable without live API access.
 <img width="927" height="503" alt="image" src="https://github.com/user-attachments/assets/c0a77689-06b1-40c2-9177-cbfbe8743fd9" />
 
 <img width="934" height="511" alt="image" src="https://github.com/user-attachments/assets/54648717-897c-4acb-a5fd-bb0e21d4c5c2" />
+
+<img width="952" height="467" alt="image" src="https://github.com/user-attachments/assets/7ef876cd-ce76-48eb-9cec-f8c019632076" />
+
+<img width="946" height="413" alt="image" src="https://github.com/user-attachments/assets/86598ee4-6323-49df-b95c-33413498db3a" />
+
+<img width="919" height="502" alt="image" src="https://github.com/user-attachments/assets/136c21b4-cc20-451b-bb57-cab6c6859eff" />
+
+
+
