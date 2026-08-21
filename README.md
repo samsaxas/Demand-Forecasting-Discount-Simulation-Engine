@@ -106,3 +106,6 @@ rule-based summary so the app is demonstrable without live API access.
   is written to run against any subset or the full set unchanged.
 - The discount simulation is a transparent scaling estimate from historical
   promo response, not a rigorously fit price-elasticity model.
+
+<img width="927" height="503" alt="image" src="https://github.com/user-attachments/assets/c0a77689-06b1-40c2-9177-cbfbe8743fd9" />
+
