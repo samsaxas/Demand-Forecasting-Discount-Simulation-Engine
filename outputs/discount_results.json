@@ -1,0 +1,914 @@
+{
+  "2": {
+    "store": 2,
+    "uplift_pct": 62.45,
+    "avg_sales_promo": 6277.4,
+    "avg_sales_no_promo": 3864.3,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 3864.3,
+        "projected_uplift_pct": 15.61,
+        "projected_sales": 4467.6,
+        "projected_revenue_change_pct": 9.83
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 3864.3,
+        "projected_uplift_pct": 31.23,
+        "projected_sales": 5070.9,
+        "projected_revenue_change_pct": 18.1
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 3864.3,
+        "projected_uplift_pct": 46.84,
+        "projected_sales": 5674.2,
+        "projected_revenue_change_pct": 24.81
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 3864.3,
+        "projected_uplift_pct": 62.45,
+        "projected_sales": 6277.6,
+        "projected_revenue_change_pct": 29.96
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 3864.3,
+        "projected_uplift_pct": 78.06,
+        "projected_sales": 6880.9,
+        "projected_revenue_change_pct": 33.55
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 3864.3,
+        "projected_uplift_pct": 93.68,
+        "projected_sales": 7484.2,
+        "projected_revenue_change_pct": 35.57
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 3864.3,
+        "projected_uplift_pct": 124.9,
+        "projected_sales": 8690.8,
+        "projected_revenue_change_pct": 34.94
+      }
+    }
+  },
+  "3": {
+    "store": 3,
+    "uplift_pct": 64.5,
+    "avg_sales_promo": 8854.6,
+    "avg_sales_no_promo": 5382.6,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 5382.6,
+        "projected_uplift_pct": 16.12,
+        "projected_sales": 6250.5,
+        "projected_revenue_change_pct": 10.32
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 5382.6,
+        "projected_uplift_pct": 32.25,
+        "projected_sales": 7118.5,
+        "projected_revenue_change_pct": 19.03
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 5382.6,
+        "projected_uplift_pct": 48.38,
+        "projected_sales": 7986.4,
+        "projected_revenue_change_pct": 26.12
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 5382.6,
+        "projected_uplift_pct": 64.5,
+        "projected_sales": 8854.4,
+        "projected_revenue_change_pct": 31.6
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 5382.6,
+        "projected_uplift_pct": 80.62,
+        "projected_sales": 9722.3,
+        "projected_revenue_change_pct": 35.47
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 5382.6,
+        "projected_uplift_pct": 96.75,
+        "projected_sales": 10590.3,
+        "projected_revenue_change_pct": 37.72
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 5382.6,
+        "projected_uplift_pct": 129.0,
+        "projected_sales": 12326.2,
+        "projected_revenue_change_pct": 37.4
+      }
+    }
+  },
+  "5": {
+    "store": 5,
+    "uplift_pct": 73.63,
+    "avg_sales_promo": 6096.7,
+    "avg_sales_no_promo": 3511.4,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 3511.4,
+        "projected_uplift_pct": 18.41,
+        "projected_sales": 4157.8,
+        "projected_revenue_change_pct": 12.49
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 3511.4,
+        "projected_uplift_pct": 36.81,
+        "projected_sales": 4804.1,
+        "projected_revenue_change_pct": 23.13
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 3511.4,
+        "projected_uplift_pct": 55.22,
+        "projected_sales": 5450.5,
+        "projected_revenue_change_pct": 31.94
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 3511.4,
+        "projected_uplift_pct": 73.63,
+        "projected_sales": 6096.8,
+        "projected_revenue_change_pct": 38.9
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 3511.4,
+        "projected_uplift_pct": 92.04,
+        "projected_sales": 6743.2,
+        "projected_revenue_change_pct": 44.03
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 3511.4,
+        "projected_uplift_pct": 110.44,
+        "projected_sales": 7389.6,
+        "projected_revenue_change_pct": 47.31
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 3511.4,
+        "projected_uplift_pct": 147.26,
+        "projected_sales": 8682.3,
+        "projected_revenue_change_pct": 48.36
+      }
+    }
+  },
+  "6": {
+    "store": 6,
+    "uplift_pct": 45.07,
+    "avg_sales_promo": 6642.3,
+    "avg_sales_no_promo": 4578.6,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 4578.6,
+        "projected_uplift_pct": 11.27,
+        "projected_sales": 5094.5,
+        "projected_revenue_change_pct": 5.7
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 4578.6,
+        "projected_uplift_pct": 22.54,
+        "projected_sales": 5610.4,
+        "projected_revenue_change_pct": 10.28
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 4578.6,
+        "projected_uplift_pct": 33.8,
+        "projected_sales": 6126.3,
+        "projected_revenue_change_pct": 13.73
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 4578.6,
+        "projected_uplift_pct": 45.07,
+        "projected_sales": 6642.2,
+        "projected_revenue_change_pct": 16.06
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 4578.6,
+        "projected_uplift_pct": 56.34,
+        "projected_sales": 7158.1,
+        "projected_revenue_change_pct": 17.25
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 4578.6,
+        "projected_uplift_pct": 67.61,
+        "projected_sales": 7674.0,
+        "projected_revenue_change_pct": 17.32
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 4578.6,
+        "projected_uplift_pct": 90.14,
+        "projected_sales": 8705.8,
+        "projected_revenue_change_pct": 14.08
+      }
+    }
+  },
+  "85": {
+    "store": 85,
+    "uplift_pct": 6.33,
+    "avg_sales_promo": 7550.3,
+    "avg_sales_no_promo": 7100.6,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 7100.6,
+        "projected_uplift_pct": 1.58,
+        "projected_sales": 7213.0,
+        "projected_revenue_change_pct": -3.5
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 7100.6,
+        "projected_uplift_pct": 3.17,
+        "projected_sales": 7325.3,
+        "projected_revenue_change_pct": -7.15
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 7100.6,
+        "projected_uplift_pct": 4.75,
+        "projected_sales": 7437.7,
+        "projected_revenue_change_pct": -10.96
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 7100.6,
+        "projected_uplift_pct": 6.33,
+        "projected_sales": 7550.1,
+        "projected_revenue_change_pct": -14.94
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 7100.6,
+        "projected_uplift_pct": 7.91,
+        "projected_sales": 7662.4,
+        "projected_revenue_change_pct": -19.07
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 7100.6,
+        "projected_uplift_pct": 9.5,
+        "projected_sales": 7774.8,
+        "projected_revenue_change_pct": -23.35
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 7100.6,
+        "projected_uplift_pct": 12.66,
+        "projected_sales": 7999.5,
+        "projected_revenue_change_pct": -32.4
+      }
+    }
+  },
+  "259": {
+    "store": 259,
+    "uplift_pct": 7.97,
+    "avg_sales_promo": 12212.7,
+    "avg_sales_no_promo": 11311.6,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 11311.6,
+        "projected_uplift_pct": 1.99,
+        "projected_sales": 11537.0,
+        "projected_revenue_change_pct": -3.11
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 11311.6,
+        "projected_uplift_pct": 3.98,
+        "projected_sales": 11762.4,
+        "projected_revenue_change_pct": -6.41
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 11311.6,
+        "projected_uplift_pct": 5.98,
+        "projected_sales": 11987.8,
+        "projected_revenue_change_pct": -9.92
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 11311.6,
+        "projected_uplift_pct": 7.97,
+        "projected_sales": 12213.1,
+        "projected_revenue_change_pct": -13.62
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 11311.6,
+        "projected_uplift_pct": 9.96,
+        "projected_sales": 12438.5,
+        "projected_revenue_change_pct": -17.53
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 11311.6,
+        "projected_uplift_pct": 11.96,
+        "projected_sales": 12663.9,
+        "projected_revenue_change_pct": -21.63
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 11311.6,
+        "projected_uplift_pct": 15.94,
+        "projected_sales": 13114.7,
+        "projected_revenue_change_pct": -30.44
+      }
+    }
+  },
+  "262": {
+    "store": 262,
+    "uplift_pct": 2.15,
+    "avg_sales_promo": 20991.5,
+    "avg_sales_no_promo": 20549.6,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 20549.6,
+        "projected_uplift_pct": 0.54,
+        "projected_sales": 20660.1,
+        "projected_revenue_change_pct": -4.49
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 20549.6,
+        "projected_uplift_pct": 1.07,
+        "projected_sales": 20770.5,
+        "projected_revenue_change_pct": -9.03
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 20549.6,
+        "projected_uplift_pct": 1.61,
+        "projected_sales": 20881.0,
+        "projected_revenue_change_pct": -13.63
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 20549.6,
+        "projected_uplift_pct": 2.15,
+        "projected_sales": 20991.4,
+        "projected_revenue_change_pct": -18.28
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 20549.6,
+        "projected_uplift_pct": 2.69,
+        "projected_sales": 21101.9,
+        "projected_revenue_change_pct": -22.98
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 20549.6,
+        "projected_uplift_pct": 3.22,
+        "projected_sales": 21212.3,
+        "projected_revenue_change_pct": -27.74
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 20549.6,
+        "projected_uplift_pct": 4.3,
+        "projected_sales": 21433.2,
+        "projected_revenue_change_pct": -37.42
+      }
+    }
+  },
+  "274": {
+    "store": 274,
+    "uplift_pct": -6.95,
+    "avg_sales_promo": 3891.9,
+    "avg_sales_no_promo": 4182.4,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 4182.4,
+        "projected_uplift_pct": -1.74,
+        "projected_sales": 4109.7,
+        "projected_revenue_change_pct": -6.65
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 4182.4,
+        "projected_uplift_pct": -3.48,
+        "projected_sales": 4037.1,
+        "projected_revenue_change_pct": -13.13
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 4182.4,
+        "projected_uplift_pct": -5.21,
+        "projected_sales": 3964.4,
+        "projected_revenue_change_pct": -19.43
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 4182.4,
+        "projected_uplift_pct": -6.95,
+        "projected_sales": 3891.7,
+        "projected_revenue_change_pct": -25.56
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 4182.4,
+        "projected_uplift_pct": -8.69,
+        "projected_sales": 3819.1,
+        "projected_revenue_change_pct": -31.52
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 4182.4,
+        "projected_uplift_pct": -10.43,
+        "projected_sales": 3746.4,
+        "projected_revenue_change_pct": -37.3
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 4182.4,
+        "projected_uplift_pct": -13.9,
+        "projected_sales": 3601.0,
+        "projected_revenue_change_pct": -48.34
+      }
+    }
+  },
+  "1": {
+    "store": 1,
+    "uplift_pct": 22.69,
+    "avg_sales_promo": 5300.1,
+    "avg_sales_no_promo": 4319.8,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 4319.8,
+        "projected_uplift_pct": 5.67,
+        "projected_sales": 4564.8,
+        "projected_revenue_change_pct": 0.39
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 4319.8,
+        "projected_uplift_pct": 11.35,
+        "projected_sales": 4809.9,
+        "projected_revenue_change_pct": 0.21
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 4319.8,
+        "projected_uplift_pct": 17.02,
+        "projected_sales": 5054.9,
+        "projected_revenue_change_pct": -0.54
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 4319.8,
+        "projected_uplift_pct": 22.69,
+        "projected_sales": 5300.0,
+        "projected_revenue_change_pct": -1.85
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 4319.8,
+        "projected_uplift_pct": 28.36,
+        "projected_sales": 5545.0,
+        "projected_revenue_change_pct": -3.73
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 4319.8,
+        "projected_uplift_pct": 34.04,
+        "projected_sales": 5790.0,
+        "projected_revenue_change_pct": -6.18
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 4319.8,
+        "projected_uplift_pct": 45.38,
+        "projected_sales": 6280.1,
+        "projected_revenue_change_pct": -12.77
+      }
+    }
+  },
+  "4": {
+    "store": 4,
+    "uplift_pct": 19.23,
+    "avg_sales_promo": 10576.2,
+    "avg_sales_no_promo": 8870.4,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 8870.4,
+        "projected_uplift_pct": 4.81,
+        "projected_sales": 9296.8,
+        "projected_revenue_change_pct": -0.43
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 8870.4,
+        "projected_uplift_pct": 9.62,
+        "projected_sales": 9723.3,
+        "projected_revenue_change_pct": -1.35
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 8870.4,
+        "projected_uplift_pct": 14.42,
+        "projected_sales": 10149.7,
+        "projected_revenue_change_pct": -2.74
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 8870.4,
+        "projected_uplift_pct": 19.23,
+        "projected_sales": 10576.2,
+        "projected_revenue_change_pct": -4.62
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 8870.4,
+        "projected_uplift_pct": 24.04,
+        "projected_sales": 11002.6,
+        "projected_revenue_change_pct": -6.97
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 8870.4,
+        "projected_uplift_pct": 28.84,
+        "projected_sales": 11429.1,
+        "projected_revenue_change_pct": -9.81
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 8870.4,
+        "projected_uplift_pct": 38.46,
+        "projected_sales": 12282.0,
+        "projected_revenue_change_pct": -16.92
+      }
+    }
+  },
+  "21": {
+    "store": 21,
+    "uplift_pct": 62.98,
+    "avg_sales_promo": 6969.2,
+    "avg_sales_no_promo": 4276.2,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 4276.2,
+        "projected_uplift_pct": 15.74,
+        "projected_sales": 4949.5,
+        "projected_revenue_change_pct": 9.96
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 4276.2,
+        "projected_uplift_pct": 31.49,
+        "projected_sales": 5622.8,
+        "projected_revenue_change_pct": 18.34
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 4276.2,
+        "projected_uplift_pct": 47.23,
+        "projected_sales": 6296.1,
+        "projected_revenue_change_pct": 25.15
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 4276.2,
+        "projected_uplift_pct": 62.98,
+        "projected_sales": 6969.4,
+        "projected_revenue_change_pct": 30.38
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 4276.2,
+        "projected_uplift_pct": 78.72,
+        "projected_sales": 7642.6,
+        "projected_revenue_change_pct": 34.04
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 4276.2,
+        "projected_uplift_pct": 94.47,
+        "projected_sales": 8315.9,
+        "projected_revenue_change_pct": 36.13
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 4276.2,
+        "projected_uplift_pct": 125.96,
+        "projected_sales": 9662.5,
+        "projected_revenue_change_pct": 35.58
+      }
+    }
+  },
+  "25": {
+    "store": 25,
+    "uplift_pct": 34.57,
+    "avg_sales_promo": 13003.6,
+    "avg_sales_no_promo": 9663.4,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 9663.4,
+        "projected_uplift_pct": 8.64,
+        "projected_sales": 10498.6,
+        "projected_revenue_change_pct": 3.21
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 9663.4,
+        "projected_uplift_pct": 17.29,
+        "projected_sales": 11333.7,
+        "projected_revenue_change_pct": 5.56
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 9663.4,
+        "projected_uplift_pct": 25.93,
+        "projected_sales": 12168.9,
+        "projected_revenue_change_pct": 7.04
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 9663.4,
+        "projected_uplift_pct": 34.57,
+        "projected_sales": 13004.0,
+        "projected_revenue_change_pct": 7.66
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 9663.4,
+        "projected_uplift_pct": 43.21,
+        "projected_sales": 13839.2,
+        "projected_revenue_change_pct": 7.41
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 9663.4,
+        "projected_uplift_pct": 51.86,
+        "projected_sales": 14674.4,
+        "projected_revenue_change_pct": 6.3
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 9663.4,
+        "projected_uplift_pct": 69.14,
+        "projected_sales": 16344.7,
+        "projected_revenue_change_pct": 1.48
+      }
+    }
+  },
+  "13": {
+    "store": 13,
+    "uplift_pct": 64.38,
+    "avg_sales_promo": 6445.2,
+    "avg_sales_no_promo": 3921.0,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 3921.0,
+        "projected_uplift_pct": 16.09,
+        "projected_sales": 4552.1,
+        "projected_revenue_change_pct": 10.29
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 3921.0,
+        "projected_uplift_pct": 32.19,
+        "projected_sales": 5183.2,
+        "projected_revenue_change_pct": 18.97
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 3921.0,
+        "projected_uplift_pct": 48.28,
+        "projected_sales": 5814.3,
+        "projected_revenue_change_pct": 26.04
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 3921.0,
+        "projected_uplift_pct": 64.38,
+        "projected_sales": 6445.3,
+        "projected_revenue_change_pct": 31.5
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 3921.0,
+        "projected_uplift_pct": 80.47,
+        "projected_sales": 7076.4,
+        "projected_revenue_change_pct": 35.36
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 3921.0,
+        "projected_uplift_pct": 96.57,
+        "projected_sales": 7707.5,
+        "projected_revenue_change_pct": 37.6
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 3921.0,
+        "projected_uplift_pct": 128.76,
+        "projected_sales": 8969.7,
+        "projected_revenue_change_pct": 37.26
+      }
+    }
+  },
+  "15": {
+    "store": 15,
+    "uplift_pct": 38.78,
+    "avg_sales_promo": 7884.0,
+    "avg_sales_no_promo": 5680.9,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 5680.9,
+        "projected_uplift_pct": 9.7,
+        "projected_sales": 6231.7,
+        "projected_revenue_change_pct": 4.21
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 5680.9,
+        "projected_uplift_pct": 19.39,
+        "projected_sales": 6782.4,
+        "projected_revenue_change_pct": 7.45
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 5680.9,
+        "projected_uplift_pct": 29.09,
+        "projected_sales": 7333.2,
+        "projected_revenue_change_pct": 9.72
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 5680.9,
+        "projected_uplift_pct": 38.78,
+        "projected_sales": 7884.0,
+        "projected_revenue_change_pct": 11.02
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 5680.9,
+        "projected_uplift_pct": 48.48,
+        "projected_sales": 8434.7,
+        "projected_revenue_change_pct": 11.36
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 5680.9,
+        "projected_uplift_pct": 58.17,
+        "projected_sales": 8985.5,
+        "projected_revenue_change_pct": 10.72
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 5680.9,
+        "projected_uplift_pct": 77.56,
+        "projected_sales": 10087.0,
+        "projected_revenue_change_pct": 6.54
+      }
+    }
+  },
+  "18": {
+    "store": 18,
+    "uplift_pct": 43.67,
+    "avg_sales_promo": 7873.1,
+    "avg_sales_no_promo": 5480.0,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 5480.0,
+        "projected_uplift_pct": 10.92,
+        "projected_sales": 6078.3,
+        "projected_revenue_change_pct": 5.37
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 5480.0,
+        "projected_uplift_pct": 21.84,
+        "projected_sales": 6676.6,
+        "projected_revenue_change_pct": 9.65
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 5480.0,
+        "projected_uplift_pct": 32.75,
+        "projected_sales": 7274.8,
+        "projected_revenue_change_pct": 12.84
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 5480.0,
+        "projected_uplift_pct": 43.67,
+        "projected_sales": 7873.1,
+        "projected_revenue_change_pct": 14.94
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 5480.0,
+        "projected_uplift_pct": 54.59,
+        "projected_sales": 8471.4,
+        "projected_revenue_change_pct": 15.94
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 5480.0,
+        "projected_uplift_pct": 65.5,
+        "projected_sales": 9069.7,
+        "projected_revenue_change_pct": 15.85
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 5480.0,
+        "projected_uplift_pct": 87.34,
+        "projected_sales": 10266.2,
+        "projected_revenue_change_pct": 12.4
+      }
+    }
+  },
+  "20": {
+    "store": 20,
+    "uplift_pct": 31.4,
+    "avg_sales_promo": 8960.9,
+    "avg_sales_no_promo": 6819.3,
+    "scenarios": {
+      "5": {
+        "discount_pct": 5,
+        "baseline_sales": 6819.3,
+        "projected_uplift_pct": 7.85,
+        "projected_sales": 7354.6,
+        "projected_revenue_change_pct": 2.46
+      },
+      "10": {
+        "discount_pct": 10,
+        "baseline_sales": 6819.3,
+        "projected_uplift_pct": 15.7,
+        "projected_sales": 7889.9,
+        "projected_revenue_change_pct": 4.13
+      },
+      "15": {
+        "discount_pct": 15,
+        "baseline_sales": 6819.3,
+        "projected_uplift_pct": 23.55,
+        "projected_sales": 8425.2,
+        "projected_revenue_change_pct": 5.02
+      },
+      "20": {
+        "discount_pct": 20,
+        "baseline_sales": 6819.3,
+        "projected_uplift_pct": 31.4,
+        "projected_sales": 8960.6,
+        "projected_revenue_change_pct": 5.12
+      },
+      "25": {
+        "discount_pct": 25,
+        "baseline_sales": 6819.3,
+        "projected_uplift_pct": 39.25,
+        "projected_sales": 9495.9,
+        "projected_revenue_change_pct": 4.44
+      },
+      "30": {
+        "discount_pct": 30,
+        "baseline_sales": 6819.3,
+        "projected_uplift_pct": 47.1,
+        "projected_sales": 10031.2,
+        "projected_revenue_change_pct": 2.97
+      },
+      "40": {
+        "discount_pct": 40,
+        "baseline_sales": 6819.3,
+        "projected_uplift_pct": 62.8,
+        "projected_sales": 11101.8,
+        "projected_revenue_change_pct": -2.32
+      }
+    }
+  }
+}
